@@ -13,7 +13,7 @@ SECRET_KEY = 'ba43l7caedjl$2#$)=mob*mrl%_(hrwjw@dn4@0w1(&=tvrorp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['trwling-demo-vlog.herokuapp.com','127.0.0.1']
 
 
 # Application definition
